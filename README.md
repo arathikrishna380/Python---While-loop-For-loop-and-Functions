@@ -27,6 +27,4 @@
 * Python 3.x
 * Jupyter Notebook or Anaconda distribution (optional)
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+
